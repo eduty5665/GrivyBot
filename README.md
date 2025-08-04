@@ -40,20 +40,20 @@ Além disso, o projeto está em **constante desenvolvimento**. Entre as funciona
    ```
 
 2. Instale as dependências:
-  ```bash
-    pip install -r requirements.txt
-    Crie um arquivo .env com o token do seu bot:
-  ```
+   ```bash
+   pip install -r requirements.txt
+   Crie um arquivo .env com o token do seu bot:
+   ```
 
 3. Crie um arquivo .env com o token do seu bot:
-  ```bash
-    DISCORD_TOKEN=seu_token_aqui
-  ```
+   ```bash
+   DISCORD_TOKEN=seu_token_aqui
+   ```
   
 4. Execute o bot:
-  ```bash
-    python main.py
-  ```
+   ```bash
+   python main.py
+   ```
 
 ## 🔗 Links
 
